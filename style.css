@@ -1,0 +1,13 @@
+*{
+    background-image: url(https://images.squarespace-cdn.com/content/v1/5b1341d42714e53264a2c87e/1562903797320-YHCQVNUPVFSLPFX88NVM/Sunrise+on+Ensign+Lake+in+the+Boundary+Waters+Canoe+Area%2C+June+2019+%7C+Alec+Olson?format=1500w);
+    background-size: cover
+}
+
+nav{
+    display: inline-block;
+}
+
+body{
+    color: white;
+}
+
